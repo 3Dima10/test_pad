@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.16
+Name: test_pars
+Formal-Name: test_pars
+App-ID: com.example.test-pars
+Version: 0.0.1
+Home-page: https://example.com/test_pars
+Download-URL: https://example.com/test_pars
+Author: Dolar
+Author-email: dolar@example.com
+Summary: My first application
